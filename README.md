@@ -1,2 +1,4 @@
 # Hello-World
-Time Honored Traditional Hello World Program
+A Time Honored Traditional Hello World Program
+Learning GitHub
+
